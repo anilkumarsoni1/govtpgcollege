@@ -1,0 +1,137 @@
+body {
+    margin: 0px;
+    padding: 0px;
+  }
+  .wrapper {
+    background-color: rgb(241, 241, 241);
+    width: 1349px;
+    height: 700px;
+  }
+  .line {
+    width: 1349px;
+    height: 8px;
+    background-color: rgb(56, 55, 55);
+  }
+  .line2 {
+    width: 1343px;
+    height: 30px;
+    background-color: rgb(56, 55, 55);
+    padding: 3px;
+  }
+  .header {
+    width: 1200px;
+    height: 150px;
+  }
+  .small-section {
+    width: 365px;
+    height: 160px;
+    float: left;
+  }
+  .big-section {
+    width: 825px;
+    height: 160px;
+    float: right;
+  }
+  .section1 {
+    height: 53.33px;
+    width: 825px;
+  }
+  .section2 {
+    height: 25px;
+    width: 825px;
+  }
+  .section3 {
+    height: 53.33px;
+    width: 825px;
+  }
+  .small-section img {
+    height: 125px;
+    width: 145px;
+    margin-left: 230px;
+    margin-top: 20px;
+  }
+  .section1 h2 {
+    margin: 0px;
+    padding: 20px;
+    padding-left: 10px;
+    font-family: "Montserrat", sans-serif;
+    color: rgb(15, 15, 15);
+  }
+  .section2 h3 {
+    margin: 0px;
+    padding: 0px;
+    padding-left: 20px;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 200px;
+    color: rgb(15, 15, 15);
+  }
+  .section3 h4 {
+    margin: 0px;
+    padding-right: 20px;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 200px;
+    color: red;
+  }
+  .img1 {
+    height: 30px;
+    width: 50px;
+    margin-top: -5px;
+    margin-left: 110px;
+    float: left;
+  }
+  .img2 {
+    height: 20px;
+    width: 20px;
+    margin-top: -2px;
+    margin-left: 20px;
+    float: left;
+  }
+  .line2 a {
+    margin-bottom: 15px;
+    margin-left: -5px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    float: left;
+  }
+  .line2 a:hover {
+    color: rgb(247, 179, 7);
+    float: left;
+  }
+  .contact {
+    margin-left: 10px;
+    margin-top: 0px;
+    color: white;
+    float: left;
+  }
+  .navigation {
+    width: 1349px;
+    height: 45px;
+    background-color: rgb(245, 79, 18);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5);
+    padding-top: 4px;
+  }
+  .navigation ul {
+    list-style: none;
+  }
+  .navigation li {
+    display: inline-block;
+  }
+  .navigation a {
+    text-decoration: none;
+    color: rgb(255, 254, 254);
+    font-size: 16px;
+    width: 100px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 0px;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .navigation a:hover {
+    color: yellow;
+    width: 100px;
+    transition: 0.5s;
+    background: rgb(17, 17, 17);
+  }
+  
